@@ -1,0 +1,193 @@
+[
+{
+    "id": "abrigo-01",
+    "titulo": "Abrigo 01",
+    "imagen": "./img/abrigos/01.jpg",
+    "descripcion": "Perfecto para el frio",
+    "categoria": {
+        "nombre": "Abrigos",
+        "id": "abrigos"
+    },
+    "precio": 1000
+},
+{
+    "id": "abrigo-02",
+    "titulo": "Abrigo 02",
+    "imagen": "./img/abrigos/02.jpg",
+    "descripcion": "Perfecto para el frio",
+    "categoria": {
+        "nombre": "Abrigos",
+        "id": "abrigos"
+    },
+    "precio": 1000
+},
+{
+    "id": "abrigo-03",
+    "titulo": "Abrigo 03",
+    "imagen": "./img/abrigos/03.jpg",
+    "descripcion": "Perfecto para el frio",
+    "categoria": {
+        "nombre": "Abrigos",
+        "id": "abrigos"
+    },
+    "precio": 1000
+},
+{
+    "id": "abrigo-04",
+    "titulo": "Abrigo 04",
+    "imagen": "./img/abrigos/04.jpg",
+    "descripcion": "Perfecto para el frio",
+    "categoria": {
+        "nombre": "Abrigos",
+        "id": "abrigos"
+    },
+    "precio": 1000
+},
+{
+    "id": "abrigo-05",
+    "titulo": "Abrigo 05",
+    "imagen": "./img/abrigos/05.jpg",
+    "descripcion": "Perfecto para el frio",
+    "categoria": {
+        "nombre": "Abrigos",
+        "id": "abrigos"
+    },
+    "precio": 1000
+},
+{
+    "id": "remeras-01",
+    "titulo": "Remeras 01",
+    "imagen": "./img/remeras/01.jpg",
+    "descripcion": "Perfecto para el frio",
+    "categoria": {
+        "nombre": "Remeras",
+        "id": "remeras"
+    },
+    "precio": 1000
+},
+{
+    "id": "remeras-02",
+    "titulo": "Remeras 02",
+    "imagen": "./img/remeras/02.jpg",
+    "descripcion": "Perfecto para el frio",
+    "categoria": {
+        "nombre": "Remeras",
+        "id": "remeras"
+    },
+    "precio": 1000
+},
+{
+    "id": "remeras-03",
+    "titulo": "Remeras 03",
+    "imagen": "./img/remeras/03.jpg",
+    "descripcion": "Perfecto para el frio",
+    "categoria": {
+        "nombre": "Remeras",
+        "id": "remeras"
+    },
+    "precio": 1000
+},
+{
+    "id": "remeras-04",
+    "titulo": "Remeras 04",
+    "imagen": "./img/remeras/04.jpg",
+    "descripcion": "Perfecto para el frio",
+    "categoria": {
+        "nombre": "Remeras",
+        "id": "remeras"
+    },
+    "precio": 1000
+},
+{
+    "id": "remeras-05",
+    "titulo": "Remeras 05",
+    "imagen": "./img/remeras/05.jpg",
+    "descripcion": "Perfecto para el frio",
+    "categoria": {
+        "nombre": "Remeras",
+        "id": "remeras"
+    },
+    "precio": 1000
+},
+{
+    "id": "remeras-06",
+    "titulo": "Remeras 06",
+    "imagen": "./img/remeras/06.jpg",
+    "descripcion": "Perfecto para el frio",
+    "categoria": {
+        "nombre": "Remeras",
+        "id": "remeras"
+    },
+    "precio": 1000
+},
+{
+    "id": "remeras-07",
+    "titulo": "Remeras 07",
+    "imagen": "./img/remeras/07.jpg",
+    "categoria": {
+        "nombre": "Remeras",
+        "id": "remeras"
+    },
+    "precio": 1000
+},
+{
+    "id": "remeras-08",
+    "titulo": "Remeras 08",
+    "imagen": "./img/remeras/08.jpg",
+    "categoria": {
+        "nombre": "Remeras",
+        "id": "remeras"
+    },
+    "precio": 1000
+},
+{
+    "id": "pantalon-01",
+    "titulo": "Pantalón 01",
+    "imagen": "./img/pantalones/01.jpg",
+    "categoria": {
+        "nombre": "Pantalones",
+        "id": "pantalones"
+    },
+    "precio": 1000
+},
+{
+    "id": "pantalon-02",
+    "titulo": "Pantalón 02",
+    "imagen": "./img/pantalones/02.jpg",
+    "categoria": {
+        "nombre": "Pantalones",
+        "id": "pantalones"
+    },
+    "precio": 1000
+},
+{
+    "id": "pantalon-03",
+    "titulo": "Pantalón 03",
+    "imagen": "./img/pantalones/03.jpg",
+    "categoria": {
+        "nombre": "Pantalones",
+        "id": "pantalones"
+    },
+    "precio": 1000
+},
+{
+    "id": "pantalon-04",
+    "titulo": "Pantalón 04",
+    "imagen": "./img/pantalones/04.jpg",
+    "categoria": {
+        "nombre": "Pantalones",
+        "id": "pantalones"
+    },
+    "precio": 1000
+},
+{
+    "id": "pantalon-05",
+    "titulo": "Pantalón 05",
+    "imagen": "./img/pantalones/05.jpg",
+    "categoria": {
+        "nombre": "Pantalones",
+        "id": "pantalones"
+    },
+    "precio": 1000
+}
+]
